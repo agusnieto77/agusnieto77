@@ -9,8 +9,8 @@ of the Digital Humanities Laboratory.
 
 📍 **Mar del Plata, Argentina**
 
-I’m currently working on computational analysis projects and monitoring
-of protest events and social conflicts, including:
+I am currently working on web scraping projects and computational
+analysis and monitoring of protest events and social conflict:
 
 - **ACEP** (Computational Analysis of Protest Events)
 
@@ -45,8 +45,9 @@ del Laboratorio de Humanidades Digitales.
 
 📍 **Mar del Plata, Argentina**
 
-Actualmente trabajo en proyectos de análisis computacional y monitoreo
-de eventos de protesta y conflictividad social, incluyendo:
+Actualmente trabajo en proyectos de Web Scraping y análisis
+computacional y monitoreo de eventos de protesta y conflictividad
+social:
 
 - **ACEP** (Análisis Computacional de Eventos de Protesta)
 
