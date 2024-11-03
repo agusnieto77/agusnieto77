@@ -1,14 +1,5 @@
 
 <table>
-<tr>
-<th>
-English
-</th>
-<th>
-Español
-</th>
-</tr>
-<tr>
 <td>
 
 ## Hello 👋
@@ -42,7 +33,7 @@ of protest events and social conflicts, including:
 🔗 [LinkedIn](https://linkedin.com/in/agusnieto77)
 
 <a href="https://ko-fi.com/agusnieto77">
-<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="190" alt="agusnieto77" /></a>
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png" height="40" width="190" alt="agusnieto77" /></a>
 
 </td>
 <td>
