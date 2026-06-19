@@ -28,7 +28,7 @@ analysis and monitoring of protest events and social conflict:
 📧 <agustin.nieto77@gmail.com>
 
 🌐
-[laboratoriodehumanidadesdigitales.ar](https://laboratoriodehumanidadesdigitales.ar)
+[HLab](https://hlab.com.ar)
 
 🔗 [LinkedIn](https://linkedin.com/in/agusnieto77)
 
@@ -65,7 +65,7 @@ social:
 📧 <agustin.nieto77@gmail.com>
 
 🌐
-[laboratoriodehumanidadesdigitales.ar](https://laboratoriodehumanidadesdigitales.ar)
+[HLab](https://hlab.com.ar)
 
 🔗 [LinkedIn](https://linkedin.com/in/agusnieto77)
 
